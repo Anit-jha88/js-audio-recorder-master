@@ -1,5 +1,5 @@
 # Audio Recording Demo using JavaScript and HTML
-This project demonstrates the usage of a user-defined audio recording API in a website. The implementation is based on the explained audio recording API here[insert here]. The following is a screenshot of the demo's view.
+This project demonstrates the usage of a user-defined audio recording API in a website. The implementation is based on the explained audio recording API here[insert here]. The following is a screenshot of the demo's view. 
 
 <img src="https://github.com/ralzohairi/audio-recording-in-js/blob/master/images/main-view.png?raw=true"  width="600">
 
