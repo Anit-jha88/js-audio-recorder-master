@@ -6,7 +6,7 @@ This project demonstrates the usage of a user-defined audio recording API in a w
 
 ## Key Features
 1. Audio Recording. <br/>
-2. Stopping the Audio Recording, where the maximum recording duration is 1 hour. <br/>
+2. Stopping the Audio Recording, where the maximum recording duration is 1 hour. <br/> 
 3. Listening to the recorded audio played back once recording has stopped. <br/>
 4. Canceling the Audio Recording. <br/>
 
