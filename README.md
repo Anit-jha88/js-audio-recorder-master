@@ -39,7 +39,7 @@ The following GIF image demonstrates stopping the audio recording.<br/>
 
 ![alt text](https://github.com/ralzohairi/audio-recording-in-js/blob/master/images/canceling-audio-recording.gif?raw=true)
 
-* ### Starting the Audio Recording in a Browser that does not support the Audio Recording API
+* ### Starting the Audio Recording in a Browser that does not support the Audio Recording API 
 When the user attempts to start an audio recording in a browser that does not support the audio recording API, a message box will be displayed for the user to inform him why they cannot use the audio recording feature.
 
 The following GIF image shows the message box displayed to the user.<br/> 
