@@ -29,7 +29,7 @@ The following GIF image demonstrates starting the audio recording.<br/>
 
 To stop the ongoing audio recording, the stop button should be clicked. Once the audio recording has successfully stopped, the audio is played back to the user.
 
-The following GIF image demonstrates stopping the audio recording.<br/> 
+The following GIF image demonstrates stopping the audio recording.<br/>  
 
 ![alt text](https://github.com/ralzohairi/audio-recording-in-js/blob/master/images/stoping-audio-recording.gif?raw=true)
 
